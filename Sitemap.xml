@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://cakebuild.net/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/</loc>
+  <lastmod>2020-10-05T13:45:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/faq/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/getting-started/setting-up-a-new-project</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/getting-started/running-cake-scripts</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/Addins/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/Announcement/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/How-Tos/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/Infrastructure/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/News/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/Release-Notes/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2020/09/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2020/06/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2020/05/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2020/02/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2020/01/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2019/09/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2019/07/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2019/04/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2019/01/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/12/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/08/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/07/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/06/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/05/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/04/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/03/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/02/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2018/01/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/12/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/11/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/10/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/09/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/08/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/07/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/06/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/05/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/04/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/03/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2017/01/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/12/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/11/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/10/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/09/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/08/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/07/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/06/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/05/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/04/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/03/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/02/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2016/01/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/12/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/11/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/10/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/09/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/08/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/archive/2015/07/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/agc93/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/daveaglick/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/devlead/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/gep13/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/jericho/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/Larz-White/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/mholo65/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/Pascal-Berger/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/patriksvensson/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/phillipsj/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/author/RLittlesII/</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/2020/09/cake-v0.38.5-released</loc>
+  <lastmod>2020-10-05T13:41:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/2020/06/cake-v0.38.3-released-in-v0.38.3</loc>
+  <lastmod>2020-10-05T13:41:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/2020/06/cake-v0.38.2-release</loc>
+  <lastmod>2020-10-05T13:41:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/2020/05/cake-v0.38.0-released</loc>
+  <lastmod>2020-10-05T13:41:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/2020/05/cake-v0.38.1-released</loc>
+  <lastmod>2020-10-05T13:41:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/blog/page2</loc>
+  <lastmod>2020-10-05T13:41:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/getting-started/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/getting-started/bootstrapping-scripts</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tutorials/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tutorials/using-cake-pre-release</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tutorials/pinning-cake-version</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/tasks</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/dependencies</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/criteria</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/error-handling</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/finally-block</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/asynchronous-tasks</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/setup-and-teardown</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/running-targets</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/args-and-environment-vars</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/aliases</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/preprocessor-directives</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/configuration</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/default-configuration-values</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/fundamentals/sharing-build-state</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tools/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tools/installing-tools</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/tools/tool-resolution</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/cli/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/cli/usage</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/atom</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/vscode/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/vscode/intellisense</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/vscode/snippets</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/vscode/resources</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/editors/visualstudio</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/build-systems/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/build-systems/azure-devops</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/extending/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/extending/addins/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/extending/addins/creating-addins</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/extending/modules/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/extending/modules/resources</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/contributing/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/contributing/contribution-guidelines</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/contributing/documentation</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/videos</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/training</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/presentations</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/podcasts</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/blogs</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/docs/resources/in-the-news</loc>
+  <lastmod>2020-10-05T13:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/arguments/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/assembly-info/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/build-system/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cake/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/chocolatey/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/compression/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/diagnostics/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/directory-operations/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dotcover/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dotnetbuild/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dotnetcore/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dry-run/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/environment/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/file-operations/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/fixie/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitlink/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitlink-v3/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitreleasemanager/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitreleasenotes/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitversion/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/globbing/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/http-operations/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ilmerge/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ilrepack/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/inno-setup/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/logging/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/msbuild/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/msbuild-resource/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mspec/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mstest/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nsis/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nuget/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nunit/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nunit-v3/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/octopus-deploy/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/opencover/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/process/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/release-notes/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/reportgenerator/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/reportunit/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/resharper/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/roundhouse/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/security/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/signing/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/specflow/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/text/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/vstest/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/vswhere/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/wix/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xbuild/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xml/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xunit/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xunit-v2/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/7zip/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/activedirectory/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/aliasql/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/android/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/android-avd-manager/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/android-emulator/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/android-sdk-manager/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/androidappmanifest/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/apigee/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/appcenter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/applesimulator/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/apppackager/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/appveyor/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/argument/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/asanacommand/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/asciidoctorj/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/autorest/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/aws/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/azure/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/azure-devops/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/azureboardscommand/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/azurestorage/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/bdd/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/bitdiffer/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/bower/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/bumpy/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cake.apireference.uploader/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cakeboss/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cakemail/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/changelog/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/chutzpah/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ckpack/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/clickonce/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cmake/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/cocoapods/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/codecov/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/communication/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/compilation/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/configuration/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/coveralls/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/create-docs/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/csvhelper/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/curl/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dart/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/database/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/debootstrap/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dependenciesanalyser/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dependencycheck/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/deploy.azure/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/deployment/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/devicexunittestreceiver/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/discord/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/docfx/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/docker/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/documentation/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/documentdatabase/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/doindirectory/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dotnetcoreef/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/dotnetversiondetector/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/eazfuscator.net/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/email/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ember/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/endpoint/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/entityframework/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/entityframework6/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/environmental-xml-configuration-transformations/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/fastlane/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/figlet/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/file-helpers/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/file-manipulation/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/fileset/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/fluentmigrator/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/flutter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/flyway/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ftp/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gem/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/genymotion/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gerritcodereview/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/git/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/git-versioning/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/github/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gitter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/gradle/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/graphite/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/guard/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/handlebars/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/handlebarsdotnet/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/helm/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/hg/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/hgversion/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/hipchat/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/hockeyapp/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/homebrew/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/hosts/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/iis/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/imageoptimizer/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/iso/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/issues/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/jira/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/jmeter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/json/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/keepass/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/kubectl/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/kudu/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/libman/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/liquibase/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/localization/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mage/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/markdownlint/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mastodon/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/microsoft-teams/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/microsoft.extensions.configuration/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/minicover/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/minver/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mkdocs/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/mono-api-tools/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/msbuildtask/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/msdeploy/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ndepend/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/netlify/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/newrelic/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/node/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/npm/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nspec/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/nswag/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/octodeploy/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/octovariableimport/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/openapi/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/opencovertocoberturaconverter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/openshift/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/orchard/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/paket/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/path/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/plasticscm/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/plist/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/postman/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/powershell/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/progetasset/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/prompt/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/protobuf/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/pulumi/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/raygun/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/resharperreports/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/rest/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/resxconverter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/rsync/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sample/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/scripty/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/semantic-versioning/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sendgrid/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/services/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/slack/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/smartassembly/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sonarqube/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sonarscanner/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sqlpackage/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sqlserver/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/sqltools/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/squirrel/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/ssrs/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/storyteller/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/strong-naming/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/strongnamesigner/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/stylecop/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/svn/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/swagger/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/systemctl/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/talendadminapi/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/talendcommandline/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/terraform/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/testing/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/tfs/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/tfsbuildvariables/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/tfx/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/topshelf/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/travisci/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/twitter/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/unity/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/upack/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/vagrant/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/variablemanager/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/version-reader/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/vsce/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/vsmetrics/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/watch/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/webdeploy/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/webpack/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/windowsappstore/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/wyam/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xamarin/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xcbuild/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xcode/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xcpath/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xcruntime/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xcstudio/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/xdt/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/yaml/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/yarn/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/dsl/yeoman/</loc>
+  <lastmod>2020-10-05T13:45:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.Fixie/FixieSettings/</loc>
+  <lastmod>2020-10-05T13:45:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.GitLink/GitLinkSettings/</loc>
+  <lastmod>2020-10-05T13:45:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.GitLink/GitLink3Settings/</loc>
+  <lastmod>2020-10-05T13:45:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.GitReleaseNotes/GitReleaseNotesSettings/</loc>
+  <lastmod>2020-10-05T13:45:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.GitVersion/GitVersionSettings/</loc>
+  <lastmod>2020-10-05T13:45:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.ILMerge/ILMergeSettings/</loc>
+  <lastmod>2020-10-05T13:45:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.ILRepack/ILRepackSettings/</loc>
+  <lastmod>2020-10-05T13:45:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.MSpec/MSpecSettings/</loc>
+  <lastmod>2020-10-05T13:45:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.NUnit/NUnitSettings/</loc>
+  <lastmod>2020-10-05T13:45:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.NUnit/NUnit3Settings/</loc>
+  <lastmod>2020-10-05T13:45:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.OpenCover/OpenCoverSettings/</loc>
+  <lastmod>2020-10-05T13:45:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.ReportGenerator/ReportGeneratorSettings/</loc>
+  <lastmod>2020-10-05T13:45:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.ReportUnit/ReportUnitSettings/</loc>
+  <lastmod>2020-10-05T13:45:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.InspectCode/InspectCodeSettings/</loc>
+  <lastmod>2020-10-05T13:45:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.Roundhouse/RoundhouseSettings/</loc>
+  <lastmod>2020-10-05T13:45:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.TextTransform/TextTransformSettings/</loc>
+  <lastmod>2020-10-05T13:45:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.XUnit/XUnitSettings/</loc>
+  <lastmod>2020-10-05T13:45:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Common.Tools.XUnit/XUnit2Settings/</loc>
+  <lastmod>2020-10-05T13:45:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Core/ICakeContext/</loc>
+  <lastmod>2020-10-05T13:45:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.Openshift/OpenshiftSettings/</loc>
+  <lastmod>2020-10-05T13:45:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/api/Cake.StrongNameTool/StrongNameToolSettings/940C443C</loc>
+  <lastmod>2020-10-05T13:45:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/%C2%B5httpsharp/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/adoc/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/amazon/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/analysis/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/android/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/api/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/api-gateway/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/api-reference/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/apigee/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/appveyor/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/argument/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/asana/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/asciidoc/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/assembly-info/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/atlassian/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/attributes/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/avd/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/avdmanager/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/aws/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/azure/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/azure-boards/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/azure-devops/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/azure-devops-server/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/bdd/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/binder/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/bitdiffer/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/board/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/bootstrap/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/bower/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/build/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/c%23/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-addin/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-build/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-contrib/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-issueprovider/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-issues/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-pullrequestsystem/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cake-reportformat/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cdn/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/changelog/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/chutzpah/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/ci/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/ck/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cleaning/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/clickonce/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/clicktwice/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/cmake/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/code/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/code-coverage/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/code-first/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/code-generation/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/code-quality/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/codeanalysis/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/commit/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/communication/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/compilation/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/compiler/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/compression/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/configs-generator/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/configuration/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/couchdb/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/coverage/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/curl/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dart/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/database/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/db/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/debootstrap/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dependencies/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dependencies-analyser/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dependency/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dependency-check/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/deploy/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/deployment/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/detector/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/devops/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dialog/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/discord/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/docfx/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/docker/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/document/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/documentation/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dot-net-core/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dotnet/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/dupfinder/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/eazfuscator.net/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/ef/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/electron.net/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/email/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/ember/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/entity-framework/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/entityframework/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/environment/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/esb/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/eslint/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/fastlane/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/fluentmigrator/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/flutter/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/gaming/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cakebuild.net/addins/gate/</loc>
+  <lastmod>2020-10-05T13:45:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
